@@ -1,5 +1,5 @@
 teste gitclean
 testando o arquivo 
 testando alteração clone 2
-
+testando alteração 1 exclusao 
 
